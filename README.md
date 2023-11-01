@@ -1,22 +1,11 @@
 # Boas-vindas ao repositório do projeto Docker Todo List!
 
-Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
+
 
 Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir deste repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
 
-# Termos e acordos
 
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta e do Manual da Pessoa Estudante da Trybe.
 
-# Entregáveis
-
-<details>
-  <summary><strong>🤷🏽‍♀️ Como entregar</strong></summary><br />
-
-Para entregar o seu projeto você deverá criar um _Pull Request_ neste repositório.
-
-Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://app.betrybe.com/course/4d67f5b4-34a6-489f-a205-b6c7dc50fc16/) e nosso [Blog - Git & GitHub](https://blog.betrybe.com/tecnologia/git-e-github/) sempre que precisar!
-</details>
 
 <details>
   <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
@@ -119,46 +108,6 @@ Obs.: Caso o seu projeto esteja localizado em um diretório que contenha espaço
 
 </details>
 
-<details>
-  <summary><strong>‼️ Antes de começar a desenvolver</strong></summary><br />
-
-1. Clone o repositório
-* `git clone git@github.com:tryber/sd-021-b-project-docker-todo-list.git`
-* Entre na pasta do repositório que você acabou de clonar:
-  * `cd sd-021-b-project-docker-todo-list`
-
-2. Instale as dependências:
-  * `npm install`
-
-* Verifique se os testes estão executando:
-  * `npm test` (os testes devem rodar e falhar)
-
-3. Crie uma branch a partir da branch `master`
-
-* Verifique que você está na branch `master`
-  * Exemplo: `git branch`
-* Se não estiver, mude para a branch `master`
-  * Exemplo: `git checkout master`
-* Agora, crie uma branch onde você vai guardar os commits do seu projeto
-  * Você deve criar uma branch no seguinte formato: `nome-de-usuario-nome-do-projeto`
-  * Exemplo:
-    * `git checkout -b joaozinho-sd-021-b-project-docker-todo-list`
-
-4. Adicione a sua branch com o novo `commit` ao repositório remoto
-
-- Usando o exemplo anterior:
-  - `git push -u origin joaozinho-sd-021-b-project-docker-todo-list`
-
-5. Crie um novo `Pull Request` _(PR)_
-* Vá até a página de _Pull Requests_ do repositório no GitHub: [docker-todo-list](https://github.com/tryber/sd-021-b-project-docker-todo-list/pulls)
-* Clique no botão verde _"New pull request"_
-* Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
-* Clique no botão verde _"Create pull request"_
-* Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_
-* **Não se preocupe em preencher mais nada por enquanto!**
-* Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-021-b-project-docker-todo-list/pulls) e confira que o seu _Pull Request_ está criado
-
-</details>
 
 <details>
   <summary><strong>⌨️ Durante o desenvolvimento</strong></summary><br />
@@ -178,19 +127,7 @@ Obs.: Caso o seu projeto esteja localizado em um diretório que contenha espaço
 
 </details>
 
-<details>
-  <summary><strong>🤝 Após terminar o desenvolvimento (opcional)</strong></summary><br />
 
-Para **"entregar"** seu projeto, siga os passos a seguir:
-
-* Vá até a página **DO SEU** _Pull Request_, adicione a label de _"code-review"_ e marque seus colegas
-  * No menu à direita, clique no _link_ **"Labels"** e escolha a _label_ **code-review**
-  * No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**
-  * No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-021-b`
-
-Se ainda houver alguma dúvida sobre como entregar seu projeto, [aqui tem um video explicativo](https://vimeo.com/362189205).
-
-</details>
 
 <details>
   <summary><strong>🕵🏿 Revisando um pull request</strong></summary><br />
@@ -238,21 +175,7 @@ Não utilize a função `.only` ou `.skip` após o describe. Os testes precisam 
 <details>
   <summary><strong>🗣 Nos dê feedbacks sobre o projeto!</strong></summary><br />
 
-Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário.
-**Leva menos de 3 minutos!**
 
-[FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH)
-
-⚠ **O avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos aparecem no readme. Isso acontece para deixar o processo de avaliação mais rápido. Então, não se assuste se isso acontecer, ok?**
-
-</details>
-
-<details>
-  <summary><strong>🗂 Compartilhe seu portfólio!</strong></summary><br />
-
-Você sabia que o LinkedIn é a principal rede social profissional e compartilhar o seu aprendizado lá é muito importante para quem deseja construir uma carreira de sucesso? Compartilhe esse projeto no seu LinkedIn, marque o perfil da Trybe (@trybe) e mostre para a sua rede toda a sua evolução.
-
-</details>
 
 # Requisitos obrigatórios do projeto
 
