@@ -104,7 +104,7 @@ Isso significa que, se pudéssemos olhar para dentro do container de avaliação
 
 Portanto, é importante entender que os comandos docker escritos em `command*.dc` estarão rodando dentro desse container especial (e não a partir da raiz do projeto, como em projetos anteriores).
 
-Obs.: Caso o seu projeto esteja localizado em um diretório que contenha espaço no nome, os testes falharão (Exemplo: Projetos Trybe). Nesse caso basta mover o projeto de pasta ou renomeá-lo (Exemplo: Projetos-Trybe ou ProjetosTrybe). Isso acontece porque o comando docker usado nos testes irá entender que o espaço no nome significa que está passando algum tipo de opção ou complemento extra.
+
 
 </details>
 
@@ -114,30 +114,6 @@ Obs.: Caso o seu projeto esteja localizado em um diretório que contenha espaço
 
 * ⚠ **PULL REQUESTS COM ISSUES NO DOCKERFILE-LINTER NÃO SERÃO AVALIADOS. É PRECISO RESOLVÊ-LAS ANTES DE FINALIZAR O DESENVOLVIMENTO!** ⚠
 
-* Faça `commits` das alterações que você fizer no código regularmente;
-
-* Lembre-se de atualizar o repositório remoto após um (ou alguns) `commits`;
-
-* Os comandos que você utilizará com mais frequência são:
-  1. `git status` _(para verificar o que está em vermelho - fora do stage - e o que está em verde - no stage)_
-  2. `git add` _(para adicionar arquivos ao stage do Git)_
-  3. `git commit` _(para criar um commit com os arquivos que estão no stage do Git)_
-  4. `git push -u origin nome-da-branch` _(para enviar o commit para o repositório remoto na primeira vez que fizer o `push` de uma nova branch)_
-  5. `git push` _(para enviar o commit para o repositório remoto após o passo anterior)_
-
-</details>
-
-
-
-<details>
-  <summary><strong>🕵🏿 Revisando um pull request</strong></summary><br />
-
-Use o conteúdo sobre [Code Review](https://course.betrybe.com/real-life-engineer/code-review/) para te ajudar a revisar os _Pull Requests_.
-
-</details>
-
-<details>
-  <summary><strong>📜 Não se esqueça de consultar as documentações!</strong></summary><br />
 
 ⚠️ **Importante**:
 
