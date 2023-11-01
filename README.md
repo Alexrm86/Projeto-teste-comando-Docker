@@ -58,15 +58,6 @@ Quando for necessário fazer a orquestração das aplicações, o arquivo `docke
 
 </details>
 
-<details>
-  <summary><strong>🗓 Data de Entrega</strong></summary><br />
-
-* Este projeto é individual
-* São `2` dias de projeto
-* Data para entrega final do projeto: `10/08/2022 14:00`
-
-</details>
-
 # Orientações
 
 <details>
